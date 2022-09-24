@@ -1,0 +1,18 @@
+-6.000000
+HeartDisease 0.841800
+BMI 1.000000
+Smoking -1.000000
+AlcoholDrinking 1.000000
+Stroke -3.081000
+PhysicalHealth 2.454300
+MentalHealth 1.000000
+DiffWalking 1.000000
+Sex 4.167700
+AgeCategory -1.250000
+Race 0.898000
+Diabetic 1.000000
+PhysicalActivity -3.750000
+GenHealth -1.799500
+SleepTime -1.000000
+Asthma 1.000000
+KidneyDisease 1.000000
